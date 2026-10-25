@@ -1,6 +1,5 @@
 using BepInEx;
 using BepInEx.Configuration;
-using BepInEx.Unity.Mono;
 using HarmonyLib;
 using UnityEngine;
 
